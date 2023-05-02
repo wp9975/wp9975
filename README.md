@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 </br>
 
 ### 📊 Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wp9975&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wp9975&show_icons=true&theme=dracula&include_all_commits=true&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wp9975&layout=compact&theme=dracula&langs_count=6&hide=CSS)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wp9975&layout=compact&theme=dracula&langs_count=6&hide=CSS&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
