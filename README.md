@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ### 📊 Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wp9975&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?wp9975=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wp9975&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
