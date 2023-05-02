@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 </br>
 
 ### 📊 Statistics
-[![Anurag's GitHub stats](https://github-readme-stats-wp9975.vercel.app/api?username=wp9975&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="">
-      <img align="center" src="https://github-readme-stats-wp9975.vercel.app/api?username=wp9975&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-wp9975.vercel.app/api?username=wp9975&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=40" />
     </a>
- [![Top Langs](https://github-readme-stats-wp9975.vercel.app/api/top-langs/?username=wp9975&layout=compact&theme=dracula&langs_count=6&hide=CSS)](https://github.com/anuraghazra/github-readme-stats)
+<a href="">
+      <img align="center" src="https://github-readme-stats-wp9975.vercel.app/api/top-langs/?username=wp9975&theme=dracula&line_height=40&hide=css&langs_count=8"/>
+    </a>
