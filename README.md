@@ -39,5 +39,5 @@ Here are some ideas to get you started:
       <img align="center" src="https://github-readme-stats-wp9975.vercel.app/api?username=wp9975&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=40" />
     </a>
 <a href="">
-      <img align="center" src="https://github-readme-stats-wp9975.vercel.app/api/top-langs/?username=wp9975&theme=dracula&line_height=40&hide=css,html&langs_count=10&count_private=true"/>
+      <img align="center" src="https://github-readme-stats-wp9975.vercel.app/api/top-langs/?username=wp9975&theme=dracula&line_height=40&langs_count=12&count_private=true"/>
     </a>
