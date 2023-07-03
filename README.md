@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/wp9975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wp9975" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wojciechpieczonka-u9975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wojciechpieczonka-u9975" height="30" width="40" /></a>
+<a href="https://dev.to/wp9975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wp9975" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wp9975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wp9975" height="30" width="40" /></a>
 </p>
 
@@ -23,6 +23,6 @@
       <img align="center" src="https://github-readme-stats-wp9975.vercel.app/api?username=wp9975&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=40" />
     </a>
 <a href="">
-      <img align="center" src="https://github-readme-stats-wp9975.vercel.app/api/top-langs/?username=wp9975&theme=dracula&line_height=40&langs_count=10&hide=css,html&count_private=true"/>
+      <img align="center" src="https://github-readme-stats-wp9975.vercel.app/api/top-langs/?username=wp9975&theme=dracula&line_height=40&langs_count=6&hide=css,html&count_private=true"/>
     </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wp9975&" alt="wp9975" /></p>
