@@ -37,3 +37,4 @@
       <img align="center" src="https://github-readme-stats-wp9975.vercel.app/api/top-langs/?username=wp9975&theme=dracula&line_height=40&langs_count=6&hide=css,html&count_private=true"/>
     </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wp9975&" alt="wp9975" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=wp9975&theme=dark&border_radius=5&card_width=500&background=45%2C000000%2C222E1FB3)](https://git.io/streak-stats)
